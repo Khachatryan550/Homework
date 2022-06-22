@@ -1,0 +1,9 @@
+cd
+cd Desktop/lecture02/ex01
+cp .quote /home/edik/Desktop/lecture02/ex02
+rm -rf hello
+cd
+cd Desktop/lecture02/ex02
+mv .quote quote
+cat quote
+mv quote .quote

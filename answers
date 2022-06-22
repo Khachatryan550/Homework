@@ -1,0 +1,10 @@
+1.Alt+Cntrl+t
+2.mkdir -p directoryName/{subdirectoryName}
+3.man commandName
+4.%repeat 100(number of times you want to repeat) "command"
+5.use pwd copy and paste
+6.
+7.the first directory in hierarchy
+8.cd/
+9.256 characters
+10.root user has user id 0 and has unlimited privileges

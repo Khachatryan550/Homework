@@ -1,0 +1,9 @@
+RESP=read -p "What is the name of your file?
+case "$RESP" in
+     	"*.txt") echo "It is a text document."
+     	;;
+     	"*.sh") echo "It is a shell script."
+     	;;
+     	"*.bash") echo "It is a bash script."
+      	;;
+esac
